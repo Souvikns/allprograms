@@ -19,7 +19,7 @@ int main()
     
     for(i=0;i<n;++i)
     {
-        count = 0
+        count = 0;
         for(j=0;j<n;j++)
         {
             
