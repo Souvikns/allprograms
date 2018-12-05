@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535991125 source:/Users/souvikde/Documents/codeblocks/vivek/main.c
+	<stdio.h>
+	<stdlib.h>
+

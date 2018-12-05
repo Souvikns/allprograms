@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534441279 source:/Users/souvikde/Documents/codeblocks/prog15/main.c
+	<stdio.h>
+	<stdlib.h>
+

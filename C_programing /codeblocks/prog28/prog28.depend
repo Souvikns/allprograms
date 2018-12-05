@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535994382 source:/Users/souvikde/Documents/codeblocks/prog28/main.c
+	<stdio.h>
+	<stdlib.h>
+
